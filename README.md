@@ -1,1 +1,1 @@
-[![Kryeker's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryeker&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/kryeker)
+
